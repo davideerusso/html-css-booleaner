@@ -68,8 +68,6 @@
   color: #ffffff;
   font-size: 20px;
   font-weight: bold;
-  text-align: top;
-
   height: 150px;
   background-size: contain;
 }
@@ -79,7 +77,6 @@
   background-repeat: no-repeat;
   color: #ffffff;
   font-size: 20px;
-  text-align: top;
   font-weight: bold;
   height: 150px;
   background-size: contain;
