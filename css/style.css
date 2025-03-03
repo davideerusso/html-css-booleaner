@@ -1,7 +1,42 @@
-TheBooleaner {
-  text-decoration: none;
-  color: aqua;
+.body {
+  margin: 0px;
+  font-weight: bold;
 }
-titolo {
-  font-size: 30;
+.banner {
+  background-image: url (./img/pattern.png);
+  background-repeat: ;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(2, 181, 225);
+}
+
+.titolo {
+  font-weight: bold;
+  text-align: justify;
+  font-size: 50px;
+  padding-right: 150px;
+  padding-bottom: 0px;
+}
+.TheBooleaner {
+  font-weight: bold;
+  color: grey;
+  font-size: larger;
+}
+.sottotitolo {
+  font-size: smaller;
+}
+.foto {
+  padding: 0pz;
+}
+.evidenziato {
+  background-color: yellow;
+}
+.note {
+  font-size: smaller;
+  font-weight: lighter;
+}
+.list {
+  margin: 0px;
 }
