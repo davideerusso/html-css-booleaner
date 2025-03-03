@@ -3,6 +3,7 @@
   font-weight: bold;
 }
 .banner {
+  margin-top: 50px;
   background-image: url (./img/pattern.png);
   background-repeat: ;
 }
@@ -14,21 +15,23 @@
 
 .titolo {
   font-weight: bold;
-  text-align: justify;
   font-size: 50px;
   padding-right: 150px;
-  padding-bottom: 0px;
+  padding: 0px;
+  margin-bottom: 0px;
 }
 .TheBooleaner {
   font-weight: bold;
   color: grey;
   font-size: larger;
+  padding: 0px;
 }
 .sottotitolo {
-  font-size: smaller;
+  font-size: 14px;
 }
 .foto {
-  padding: 0pz;
+  padding: 0px;
+  text-align: left;
 }
 .evidenziato {
   background-color: yellow;
@@ -38,5 +41,5 @@
   font-weight: lighter;
 }
 .list {
-  margin: 0px;
+  padding: 0px;
 }
